@@ -33,6 +33,6 @@ AI-powered cloud operations tool built using Python, AWS, Boto3, and Ollama.
 
 Syed Arif Ali - Cloud Engineer
 
-Email: Syedarif1907@gmail.com
-LinkedIn: www.linkedin.com/in/syed-arif-a-a13782407
+Email: Syedarif1907@gmail.com        
+LinkedIn: www.linkedin.com/in/syed-arif-a-a13782407      
 GitHub: github.com/Syed-2050
